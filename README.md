@@ -42,24 +42,28 @@ Usability & Accessibility
 Security & Data Validation
 
 📊 Sample Test Case Format
+
 **TC ID**: TC-PD05  
 **Feature**: Product Detail Page – Multiple Images  
 **Description**: Verify that all product images are viewable  
 **Precondition**: PDP with multiple images available  
 **Test Steps**:  
 1. Open PDP  
-2. Swipe/click through all product images  
+2. Swipe/click through all product images
+
 **Expected Result**: All images load correctly  
 **Actual Result**: 4 out of 5 images loaded  
 **Status**: Fail  
 
 🐞 Sample Bug Report Format
+
 **Bug ID**: BUG-PD05  
 **Module**: Product Detail Page  
 **Summary**: One product image broken  
 **Steps to Reproduce**:  
 1. Open PDP with multiple images  
-2. Attempt to load all images  
+2. Attempt to load all images
+
 **Expected Result**: All 5 images load properly  
 **Actual Result**: Only 4 images load; 1 broken  
 **Priority**: Major  
