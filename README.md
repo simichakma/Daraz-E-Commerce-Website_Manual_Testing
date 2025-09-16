@@ -5,7 +5,7 @@ This repository contains manual testing documentation for the Daraz Bangladesh
  e-commerce platform.
 The objective of this project was to analyze, design, and execute test cases across different modules of the website to ensure functionality, usability, and reliability.
 
-🗂️ Contents
+# Contents
 
 Test Strategy Document – High-level testing approach
 
@@ -17,7 +17,7 @@ Bug Reports – Detailed defect reports (with severity & priority)
 
 Spreadsheets – Google Sheet Test Cases
 
-🔍 Test Coverage
+# Test Coverage
 
 The test cases were designed for the following modules:
 
@@ -41,7 +41,7 @@ Usability & Accessibility
 
 Security & Data Validation
 
-📊 Sample Test Case Format
+# Sample Test Case Format
 
 **TC ID**: TC-PD05  
 **Feature**: Product Detail Page – Multiple Images  
@@ -55,7 +55,7 @@ Security & Data Validation
 **Actual Result**: 4 out of 5 images loaded  
 **Status**: Fail  
 
-🐞 Sample Bug Report Format
+# Sample Bug Report Format
 
 **Bug ID**: BUG-PD05  
 **Module**: Product Detail Page  
@@ -69,7 +69,7 @@ Security & Data Validation
 **Priority**: Major  
 **Status**: Open  
 
-🚀 Key Deliverables
+# Key Deliverables
 
 ✅ 40+ Manual Test Cases
 
